@@ -1,0 +1,1 @@
+{"timestamp":"2026-08-21T18:48:45.759502","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/zomato_batch.py","logger":"airflow.models.dagbag.DagBag"}
