@@ -1,6 +1,7 @@
 <img width="1626" height="919" alt="Screenshot 2026-08-23 at 9 30 49 PM" src="https://github.com/user-attachments/assets/78046eaa-b798-48cc-9d81-55e31aab1fb3" />
 <img width="1674" height="915" alt="Screenshot 2026-08-23 at 9 29 28 PM" src="https://github.com/user-attachments/assets/2dc4ce18-bd6c-4788-aeba-cb130340218d" />
-# Zomato AI Intelligence
+
+## Zomato AI Intelligence
 
 > **An end-to-end data engineering and AI analytics platform built on Snowflake, dbt, Apache Airflow, and Gemini.**
 
